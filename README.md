@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andressa-varela
+- 👋 Hi, I’m @andressavarela
 - 👀 I want to get used to collaborative environments and learn... a lot.
 - 🌱 I’m currently learning Java Script.
 

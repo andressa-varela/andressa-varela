@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou a Andressa Varela
 - 👀 Estou aqui para aprender o máximo possível
-- 🌱 Atualmente estou estudando Java-Script
+- 🌱 Atualmente estou estudando desenvolvimento web
 
 <div>
   <a href="https://github.com/andressavarela">
